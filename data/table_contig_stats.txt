@@ -1,6 +1,4 @@
-					
-					
-Contig_ID	gene#	VPFs	Pfams	Length	cluster ID /singleton ID
+ContigID	genes	VPFs	Pfams	Length	clusterID
 haib17CEM4890_H2NYMCCXY_SL254771_NODE_3551_length_5969_cov_6.92442	8	8	0	5969	1
 haib17CEM4890_H2NYMCCXY_SL254783_NODE_5163_length_7379_cov_22.8073	10	10	0	7379	1
 haib17CEM4890_HKC32ALXX_SL254680_NODE_2240_length_7347_cov_72.9977	7	6	0	7347	1
